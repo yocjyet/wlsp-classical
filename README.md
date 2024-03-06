@@ -1,5 +1,5 @@
 # 『古典分類語彙表』データ版
- ![version](https://img.shields.io/badge/version-0.2.1-blue)
+ [![version](https://img.shields.io/badge/version-0.2.1-blue)](./CHANGELOG.md)
  [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 © 2013–2024 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉・于 拙
@@ -145,6 +145,8 @@ TSV形式で表された本データに関する統計情報です。
 ### ライセンス
 
 当データは[クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際][cc-by-nc-sa]にてリリースされております。
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
