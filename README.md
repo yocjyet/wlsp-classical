@@ -1,6 +1,8 @@
-# 『古典分類語彙表』データ版 v0.2.0
+# 『古典分類語彙表』データ版
+ ![version](https://img.shields.io/badge/version-0.2.1-blue)
+ [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-© 2023–2024 鈴木泰、安部清哉、于拙
+© 2013–2024 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉・于 拙
 
 ## 概要
 
@@ -139,7 +141,21 @@ TSV形式で表された本データに関する統計情報です。
 類の階層のみの項目一覧表です。以下同じ。
 
 ## 利用
-以下を参考文献として引用してください。
 
-* 于 拙（2024）「宮島達夫他編『古典分類語彙表』データの構造化及びその応用」『情報処理学会研究報告』Vol. 2024-CH-134（発表予定）
-* 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉（2013）『古典分類語彙表』
+### ライセンス
+
+当データは[クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際][cc-by-nc-sa]にてリリースされております。
+
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+
+#### 表示
+
+表示方法として、以下を参考文献として引用してください。形式は自由です。
+
+* 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉・于 拙（2024）「『古典分類語彙表』データ版」 v0.2.1、[https://github.com/yocjyet/wlsp-classical](https://github.com/yocjyet/wlsp-classical)
+* 于 拙（2024）「[宮島達夫他編『古典分類語彙表』データの構造化及びその応用](http://id.nii.ac.jp/1001/00232251/)」『情報処理学会研究報告』Vol. 2024-CH-134
+* 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉（2014）「古典分類語彙表」『[日本古典対照分類語彙表](https://shop.kasamashoin.jp/bd/isbn/9784305707000/)』笠間書院
+
+### 商業利用について
+「『古典分類語彙表』データ版」の営利目的の利用に関しては、以上のライセンスによって許可されておりません。商業利用に関するお問い合わせは、件名に「古典分類語彙表の商業利用について」と明言した上、[contact@yocjyet.dev](mailto:contact@yocjyet.dev)までご連絡をお願い致します。
