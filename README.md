@@ -1,12 +1,16 @@
 # 『古典分類語彙表』データ版
- [![version](https://img.shields.io/badge/version-0.2.1-blue)](./CHANGELOG.md)
- [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+ [![Current Version](https://img.shields.io/badge/version-v0.2.3-blue)](./CHANGELOG.md)
+ [![GitHub Release](https://img.shields.io/github/v/release/yocjyet/wlsp-classical?logo=github)](https://github.com/yocjyet/wlsp-classical/releases)
+ [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ [![DOI: Zenodo](https://zenodo.org/badge/747611787.svg)](https://zenodo.org/badge/latestdoi/747611787)
 
-© 2013–2024 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉・于 拙
+© 2013–2025 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉・于 拙
 
 ## 概要
 
-『古典分類語彙表』のデータを整理し、構造化した上で公開したものです。また、近日中検索用インタフェースも併せて公開する予定です。
+[宮島他（2014）『古典分類語彙表』](#表示)のデータを整理し、構造化した上で公開したものです。
+
+データの閲覧・検索には、派生アプリケーションである「[分類語彙表ビュワー](https://wlsp.yocjyet.dev/)」もご利用できます。現代語のものと比較しながら、用例情報に合わせての表示も可能です。詳しくは[ビュワーのページ](https://wlsp.yocjyet.dev/)を御覧ください。
 
 ## 構成
 
@@ -153,9 +157,9 @@ TSV形式で表された本データに関する統計情報です。
 
 #### 表示
 
-表示方法として、以下を参考文献として引用してください。形式は自由です。
+表示方法の例として、以下を参考文献として引用してください。形式は自由です。
 
-* 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉・于 拙（2024）「『古典分類語彙表』データ版」 v0.2.1、[https://github.com/yocjyet/wlsp-classical](https://github.com/yocjyet/wlsp-classical)
+* 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉・于 拙（2024）「『古典分類語彙表』データ版」 v0.2.3、[https://github.com/yocjyet/wlsp-classical](https://github.com/yocjyet/wlsp-classical)、DOI: [10.5281/zenodo.17658648](https://doi.org/10.5281/zenodo.17658648)
 * 于 拙（2024）「[宮島達夫他編『古典分類語彙表』データの構造化及びその応用](http://id.nii.ac.jp/1001/00232251/)」『情報処理学会研究報告』Vol. 2024-CH-134
 * 宮島 達夫・鈴木 泰・石井 久雄・安部 清哉（2014）「古典分類語彙表」『[日本古典対照分類語彙表](https://shop.kasamashoin.jp/bd/isbn/9784305707000/)』笠間書院
 
